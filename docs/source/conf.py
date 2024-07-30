@@ -5,7 +5,6 @@ import os
 import pymc_marketing  # isort:skip
 
 # -- General configuration ------------------------------------------------
-
 # General information about the project.
 project = "pymc-marketing"
 author = "PyMC Labs"
